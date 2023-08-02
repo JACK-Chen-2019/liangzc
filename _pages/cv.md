@@ -11,22 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Artificial Intelligence, Dalian University of Technology, 2019-2023
+* M.S. Computer Science and Technology, Nankai University, 2023-Now
 
-Work experience
+Honors and Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* National Scholarship, 2020.12
+* Huawei Scholarship, 2021.12
+* National Scholarship, 2022.12
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
