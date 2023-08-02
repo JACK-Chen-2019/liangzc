@@ -15,3 +15,8 @@ Research
 My research interests include
 * Few-shot Class-incremental Learning
 * Test-time Adapation
+
+Contact
+======
+- email: liangzichen1009@163.com
+- github: https://github.com/JACK-Chen-2019
