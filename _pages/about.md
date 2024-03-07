@@ -13,10 +13,10 @@ I am currently a first year Master student in the College of Computer Science, N
 Research
 ======
 My research interests include
-* Few-shot Class-incremental Learning
-* Test-time Adapation
+* Continual Learning
+
 
 Contact
 ======
-- email: liangzichen1009@163.com
+- email: liangzc@mail.nankai.edu.cn
 - github: https://github.com/JACK-Chen-2019
