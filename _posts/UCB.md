@@ -6,7 +6,6 @@ tags:
   - Continual Semnatic Segmentation
 ---
 
-Continual Semantic Segmentation (CSS) primarily aims to alleviate catastrophic forgetting. During the incremental stage, it is necessary to utilize the old model to generate pseudo-labels, as old classes are treated as background in the incremental stage. The quality of these pseudo-labels significantly influences the model's forgetting of the old categories. In this paper, we specifically address two previously overlooked problems: the impact of erroneous pseudo-labels on model forgetting and the confusion induced by class imbalance. We propose an \textbf{U}ncertainty and \textbf{C}lass \textbf{B}alance Re-weighting approach (\textbf{UCB}) that assigns higher weights to pixels with pseudo-labels exhibiting lower uncertainty and to categories with smaller proportions during the training process. Our proposed method is straightforward and can be applied to any method that uses pseudo-labels. Extensive experiments on the Pascal-VOC and ADE20K datasets illustrate the efficacy of our proposed approach in enhancing model performance.
 
 Abstract
 ======
@@ -14,4 +13,19 @@ Continual Semantic Segmentation (CSS) primarily aims to alleviate catastrophic f
 
 UCB Method
 ======
-![alt text](images/main.png)
+![](/_posts/images/main.jpg)
+
+Motivation
+======
+![](/_posts/images/uncertainty-visualize.jpg)
+
+
+Results
+======
+![](/_posts/images/table1.png)
+![](/_posts/images/table2.png)
+![](/_posts/images/results_step.png)
+
+Visualization
+======
+![](/_posts/images/visualization.jpg)
