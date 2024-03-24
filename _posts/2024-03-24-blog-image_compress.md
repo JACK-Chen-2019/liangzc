@@ -123,5 +123,3 @@ tags:
     - Data 是重放旧数据，使用的是 $f_{enc}^{(1)}$
   - Albation Study of Parallel Structure
     ![](https://github.com/jack-chen-2019/liangzc/raw/main/_posts/image_compress/Qpwmb3MIeocfwsxHOrdcMxUUnFg.png)
-
-## Capture Now and Embrace Future: A Versatile Framework for Continual Test-Time Domain Adaptation
