@@ -20,3 +20,4 @@ Honors and Awards
 * Huawei Scholarship, 华为奖学金, 2021.12
 * National Scholarship, 国家奖学金, 2022.12
 * Dalian Excellent Graduates, 大连市优秀毕业生, 2023.6
+* Outstanding Student Leader of Nankai University, 南开大学优秀学生干部, 2024.10
