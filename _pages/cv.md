@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<iframe src="path/to/your/file.pdf" width="800" height="600"></iframe>
+
 Education
 ======
 * B.S. Artificial Intelligence, Dalian University of Technology, 人工智能, 大连理工大学, 2019-2023
