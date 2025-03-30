@@ -15,6 +15,7 @@ Research
 My research interests include
 * Continual Learning
 * Embodied AI
+* Multi-model Large Language Models
 
 Contact
 ======
@@ -24,3 +25,4 @@ Contact
 News
 ======
 - One paper accepted at TCSVT.
+- One paper accepted at CVPR2025, [arxiv](https://arxiv.org/abs/2503.21076).
