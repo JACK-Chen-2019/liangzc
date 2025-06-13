@@ -26,6 +26,6 @@ Contact
 
 News
 ======
-- 2025.05 One paper accepted at TIP, [PDF](https://ieeexplore.ieee.org/document/11030217)
+- 2025.05 One paper accepted at TIP, [PDF](https://ieeexplore.ieee.org/document/11030217).
 - 2025.04 One paper accepted at CVPR2025(Highlight), [arxiv](https://arxiv.org/abs/2503.21076).
 - 2024.09 One paper accepted at TCSVT, [PDF](https://ieeexplore.ieee.org/abstract/document/10681473/).
